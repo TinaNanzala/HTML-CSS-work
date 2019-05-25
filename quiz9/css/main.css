@@ -1,0 +1,38 @@
+@font-face{
+	font-family:Ayres;
+	src:url(../fonts/Ayres.ttf);
+}
+@font-face{
+
+}
+body{
+	background-color:#ddd;
+	background-size: cover;
+	font-family:arial;
+	color:#222;
+
+}
+.cont{
+	width:800px;
+	margin:0 auto;
+	background-color: #fff;
+	padding: 20px;
+}
+h1{
+font-family: 'Baloo Bhai', cursive;
+
+}
+h3{
+	font-family: 'Lora', serif;
+}
+p{
+font-family: 'Ubuntu', sans-serif;
+}
+.facebook-icon{
+	background-color:blue;
+	color;
+	line-height: 2em;
+	height:2em;
+	width:40px;
+	font-size:12;
+}

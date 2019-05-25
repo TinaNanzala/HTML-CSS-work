@@ -1,0 +1,18 @@
+
+
+
+
+.panel{
+	width:600px;
+	height:100px;
+	padding:10px;
+	background-color:purple;
+	text-align:center;
+	border-style:solid;
+	border-color:black;
+	border-width: 30px;
+	border-height:30px;
+	margin:300px;
+
+
+}
